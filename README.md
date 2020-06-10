@@ -4,7 +4,7 @@
 # Group information
 
 * Student 1. Emil Dark, d4rkemil@gmail.com
-* Student 2. Name, email
+* Student 2. Essi Passoja, essi.passoja@gmail.com
 * Student 3. Name, email
 
 
